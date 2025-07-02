@@ -1,5 +1,5 @@
 package hello
 
-import fmt
+import "fmt"
 
-fmt.Println("hello")
+func hello() { fmt.Println("Hello, World!") }

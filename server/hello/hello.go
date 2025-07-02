@@ -13,3 +13,6 @@ func hey() {
 func hi() {
 	fmt.Println("Hi")
 }
+func kaisa() {
+	fmt.Println("kaisa hai")
+}

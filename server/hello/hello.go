@@ -16,3 +16,6 @@ func hi() {
 func kaisa() {
 	fmt.Println("kaisa hai")
 }
+func waisa() {
+	fmt.Println("kaisa hai")
+}
